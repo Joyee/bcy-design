@@ -1,0 +1,20 @@
+{
+  "name": "bcy-design",
+  "version": "1.0.0",
+  "description": "Vue.js 3.x components UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joyee/bcy-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joyee/bcy-design/issues"
+  },
+  "homepage": "https://github.com/Joyee/bcy-design#readme"
+}
